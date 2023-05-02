@@ -1,0 +1,11 @@
+.address-container {
+    display: flex;
+    justify-content: center;
+  }
+  
+  .address {
+    color: #fff;
+    font-size: 20px;
+    text-shadow: 0px 0px 10px rgba(0, 0, 0, 0.2);
+  }
+  
